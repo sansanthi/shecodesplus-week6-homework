@@ -42,3 +42,12 @@ li {
 .active {
     color: #0156B3;
 }
+
+.source-link a {
+    text-decoration: none;
+}
+
+.source-link a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
